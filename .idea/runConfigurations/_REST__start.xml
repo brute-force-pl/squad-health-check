@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="[REST] start" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="squad-health-check-rest" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.bruteforce.squadhealthcheck.SquadHealthCheckApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method />
+  </configuration>
+</component>
