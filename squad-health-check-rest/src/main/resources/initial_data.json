@@ -1,0 +1,189 @@
+[
+  {
+    "metricId": 1,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Delivering value",
+        "greenDescription": "We deliver great stuff! We're proud of it and our stakeholders are really happy.",
+        "redDescription": "We deliver crap. We feel ashamed to deliver it. Our stakeholders hate us."
+      },
+      {
+        "lang": "pl",
+        "name": "Dostarczanie wartości dla klienta",
+        "greenDescription": "Dostarczamy zajebiste produkty! Jesteśmy dumni z tego co robimy, a nasi klienci są naprawdę szczęśliwi!",
+        "redDescription": "To co robimy to jedna wielka kupa. Wstydzimy się, że musimy dostarczać takie produkty. Nasi klienci nas nienawidzą."
+      }
+    ]
+  },
+  {
+    "metricId": 2,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Easy to release",
+        "greenDescription": "Releasing is simple, safe, painless and mostly automated.",
+        "redDescription": "Releasing is risky, painful, lots of manual work and takes forever."
+      },
+      {
+        "lang": "pl",
+        "name": "Wydawanie i dostarczanie wersji",
+        "greenDescription": "Proces jest prosty, bezpieczny, bezbolesny i w większości zautomatyzowany.",
+        "redDescription": "Proces dostarczania wersji to nasz cierń w dupie - jest długi, ryzykowny, bolesny, skomplikowany i wymaga czynności manualnych."
+      }
+    ]
+  },
+  {
+    "metricId": 3,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Fun",
+        "greenDescription": "We love going to work and have great fun working together!",
+        "redDescription": "Boooooooring..."
+      },
+      {
+        "lang": "pl",
+        "name": "Dobra zabawa",
+        "greenDescription": "Uwielbiamy naszą pracę i pracować ze sobą!",
+        "redDescription": "Nuuuuuuuuudaaaaa..."
+      }
+    ]
+  },
+  {
+    "metricId": 4,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Health of Codebase",
+        "greenDescription": "We're proud of the quality of our code! It is clean, easy to read and has great test coverage.",
+        "redDescription": "Our code is a pile of dung and technical debt is raging out of control."
+      },
+      {
+        "lang": "pl",
+        "name": "Stan kodu",
+        "greenDescription": "Jesteśmy dumni z tego jak wygląda nasz kod! Jest czysty, czytelny, łatwy w utrzymaniu i pokryty testami.",
+        "redDescription": "Nasz kod to jedna wielka kupa! Zaciąganie długu technicznego to nasz chleb powszedni."
+      }
+    ]
+  },
+  {
+    "metricId": 5,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Learning",
+        "greenDescription": "We're learning lots of interesting stuff all the time!",
+        "redDescription": "We never have time to learn anything."
+      },
+      {
+        "lang": "pl",
+        "name": "Rozwój",
+        "greenDescription": "Cały czas uczymy się ciekawych rzeczy!",
+        "redDescription": "Nie mamy czasu na naukę"
+      }
+    ]
+  },
+  {
+    "metricId": 6,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Mission",
+        "greenDescription": "We know exactly why we are here and we’re really excited about it!",
+        "redDescription": "We have no idea why we are here, there's no high lever picture or focus. Our so called mission is completely unclear and uninspiring."
+      },
+      {
+        "lang": "pl",
+        "name": "Misja",
+        "greenDescription": "Dobrze wiemy po co tu jesteśmy i jesteśmy tym naprawdę podjarani!",
+        "redDescription": "Nie wiemy co my tu w ogóle robimy. To co ktoś szumnie nazywa \"misją\" to kompletna ściema, zupełnie niejasna i wcale nie inspirująca."
+      }
+    ]
+  },
+  {
+    "metricId": 7,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Pawns or Players",
+        "greenDescription": "We are in control of our own destiny! We decide what to build and how to build it.",
+        "redDescription": "We are just pawns in a game of chess with no influence over what we build or how we build it."
+      },
+      {
+        "lang": "pl",
+        "name": "Pionki czy Gracze",
+        "greenDescription": "Panujemy nad naszym przeznaczeniem! My decydujemy o tym w jaki sposób pracujemy.",
+        "redDescription": "Jesteśmy tylko pionkami na czyjejś szachownicy. Nie mamy wpływu na to co i jak robimy."
+      }
+    ]
+  },
+  {
+    "metricId": 8,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Speed",
+        "greenDescription": "We get stuff done really quickly! No waiting and no delays.",
+        "redDescription": "We never seem to get anything done. We keep getting stuck or interrupted. Stories keep getting stuck on dependencies."
+      },
+      {
+        "lang": "pl",
+        "name": "",
+        "greenDescription": "",
+        "redDescription": ""
+      }
+    ]
+  },
+  {
+    "metricId": 9,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Suitable Process",
+        "greenDescription": "Our way of working fits us perfectly!",
+        "redDescription": "Our way of working sucks!"
+      },
+      {
+        "lang": "pl",
+        "name": "Dopasowanie procesu wytwórczego",
+        "greenDescription": "Nasz sposób działania idealnie do nas pasuje!",
+        "redDescription": "Nasz sposób działania ssie!"
+      }
+    ]
+  },
+  {
+    "metricId": 10,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Support",
+        "greenDescription": "We always get great support and help when we ask for it!",
+        "redDescription": "We keep getting stuck because we can't get the support and help that we ask for."
+      },
+      {
+        "lang": "pl",
+        "name": "Wsparcie zespołu",
+        "greenDescription": "Zawsze otrzymujemy kiedy o nią prosimy!",
+        "redDescription": "Utknęliśmy w martwym punkcie i nikt nie udziela nam pomocy, o którą prosimy."
+      }
+    ]
+  },
+  {
+    "metricId": 11,
+    "translations": [
+      {
+        "lang": "en",
+        "name": "Teamwork",
+        "greenDescription": "We are a totally gelled super-team with awesome collaboration!",
+        "redDescription": "We are a bunch of individuals that neither know nor care about what the other people in the squad are doing."
+      },
+      {
+        "lang": "pl",
+        "name": "Praca zespołowa",
+        "greenDescription": "Jesteśmy niesamowicie zżytym ze sobą zespołem i współpraca układa nam się idealnie.",
+        "redDescription": "Jesteśmy zespołem indywidualistów, nie wiemy i nie chcemy wiedzieć co robią inni członkowie zespołu."
+      }
+    ]
+  }
+]
